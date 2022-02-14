@@ -1,0 +1,74 @@
+{
+  "common": [
+    {
+      "id": 1,
+      "image": "../../assets/images/7. Gallery/gallery-14.jpg",
+      "title": "대한디지털치료학회 추계학술대회 참여"
+    },
+    {
+      "id": 2,
+      "image": "../../assets/images/7. Gallery/gallery-13.jpg",
+      "title": "개발팀 내부 시연 TESS"
+    },
+    {
+      "id": 3,
+      "image": "../../assets/images/7. Gallery/gallery-12.jpg",
+      "title": "개발팀 내부 시연 알츠가드"
+    },
+    {
+      "id": 4,
+      "image": "../../assets/images/7. Gallery/gallery-11.jpg",
+      "title": "개발팀 내부 시연 뽀미"
+    },
+    {
+      "id": 5,
+      "image": "../../assets/images/7. Gallery/gallery-10.jpeg",
+      "title": "대한노인정신의학회 추계학술대회 및 연수교육"
+    },
+    {
+      "id": 6,
+      "image": "../../assets/images/7. Gallery/gallery-9.jpg",
+      "title": "뽀미, 대구시 교육청에서 시연 행사 진행"
+    },
+    {
+      "id": 7,
+      "image": "../../assets/images/7. Gallery/gallery-8.jpg",
+      "title": "HAII 우수 성과자 보상"
+    },
+    {
+      "id": 8,
+      "image": "../../assets/images/7. Gallery/gallery-7.jpg",
+      "title": "신한 커리어온 프로그램 진행"
+    },
+    {
+      "id": 9,
+      "image": "../../assets/images/7. Gallery/gallery-6.jpg",
+      "title": "추천 채용 보상 제도"
+    },
+    {
+      "id": 10,
+      "image": "../../assets/images/7. Gallery/gallery-5.jpg",
+      "title": "하이의 OKR 미팅"
+    },
+    {
+      "id": 11,
+      "image": "../../assets/images/7. Gallery/gallery-4.jpg",
+      "title": "하이의 타운홀 미팅"
+    },
+    {
+      "id": 12,
+      "image": "../../assets/images/7. Gallery/gallery-3.jpg",
+      "title": "하이 내부 교육"
+    },
+    {
+      "id": 13,
+      "image": "../../assets/images/7. Gallery/gallery-2.jpg",
+      "title": "하이 생일 파티"
+    },
+    {
+      "id": 14,
+      "image": "../../assets/images/7. Gallery/gallery-1.jpg",
+      "title": "하이 송년회"
+    }
+  ]
+}

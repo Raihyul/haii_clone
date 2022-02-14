@@ -1,0 +1,89 @@
+{
+  "kor": [
+    {
+      "id": 1,
+      "name": "한국의학연구소"
+    },
+    {
+      "id": 2,
+      "name": "강남세브란스병원"
+    },
+    {
+      "id": 3,
+      "name": "이대서울병원"
+    },
+    {
+      "id": 4,
+      "name": "이대목동병원"
+    },
+    {
+      "id": 5,
+      "name": "에자이"
+    },
+    {
+      "id": 6,
+      "name": "연세대학교"
+    },
+    {
+      "id": 7,
+      "name": "서울대학교병원"
+    },
+    {
+      "id": 8,
+      "name": "상명대학교"
+    },
+    {
+      "id": 9,
+      "name": "세브란스병원"
+    }
+  ],
+  "eng": [
+    {
+      "id": 1,
+      "name": "Korea Medical Institute"
+    },
+    {
+      "id": 2,
+      "name": "Gangnam Severance Hospital"
+    },
+    {
+      "id": 3,
+      "name": "EUMC Seoul"
+    },
+    {
+      "id": 4,
+      "name": "EUMC Mokdong"
+    },
+    {
+      "id": 5,
+      "name": "Eisai"
+    },
+    {
+      "id": 6,
+      "name": "Yonsei University"
+    },
+    {
+      "id": 7,
+      "name": "SNUH"
+    },
+    {
+      "id": 8,
+      "name": "Sangmyung University"
+    },
+    {
+      "id": 9,
+      "name": "Severance Hospital"
+    }
+  ],
+  "image": [
+    "../../assets/images/1. Main/3. Collaboration/1. Collaboration/collaboration-1-kmi.png",
+    "../../assets/images/1. Main/3. Collaboration/1. Collaboration/collaboration-2-gsh.png",
+    "../../assets/images/1. Main/3. Collaboration/1. Collaboration/collaboration-3-eumc-seoul.png",
+    "../../assets/images/1. Main/3. Collaboration/1. Collaboration/collaboration-4-eumc-mokdong.png",
+    "../../assets/images/1. Main/3. Collaboration/1. Collaboration/collaboration-5-eisai.png",
+    "../../assets/images/1. Main/3. Collaboration/1. Collaboration/collaboration-6-yonsei.png",
+    "../../assets/images/1. Main/3. Collaboration/1. Collaboration/collaboration-7-sunh.png",
+    "../../assets/images/1. Main/3. Collaboration/1. Collaboration/collaboration-8-sangmyung.png",
+    "../../assets/images/1. Main/3. Collaboration/1. Collaboration/collaboration-9-sh.png"
+  ]
+}

@@ -1,0 +1,88 @@
+{
+	"common": [
+		{
+			"id": 1,
+			"people": "Jinkyu, J., & Kim, J.",
+			"year": "2020",
+			"firstContent": "Healthier Life with Digital Companions: Effects of Reflection-Level and Statement-Type of Messages on Behavior Change via a Perceived Companion.",
+			"secondContent": "International Journal of Human–Computer Interaction, 36, 172-189."
+		},
+		{
+			"id": 2,
+			"people": "Lee, Y., Ha, M., Kwon, S., Shim, Y., & Kim, J.",
+			"year": "2019",
+			"firstContent": "Egoistic and altruistic motivation: How to induce users’ willingness to help for imperfect AI, Computers in Human Behavior 101, 180-196.",
+			"secondContent": ""
+		},
+		{
+			"id": 3,
+			"people": "Jang, J., Kim, J., Shin, H., Aum, H., & Kim, J.",
+			"year": "2018",
+			"firstContent": "The New Snapshot Narrators: Changing Your Visions and Perspectives!.",
+			"secondContent": "Interacting with Computers."
+		},
+		{
+			"id": 4,
+			"people": "Shin, Y., & Kim, J.",
+			"year": "2018",
+			"firstContent": "Data-centered persuasion: Nudging user's prosocial behavior and designing social innovation.",
+			"secondContent": "Computers in Human Behavior, 80, 168-178."
+		},
+		{
+			"id": 5,
+			"people": "Lee, B., Kwon, O., Lee, I., & Kim, J.",
+			"year": "2017",
+			"firstContent": "Companionship with smart home devices: The impact of social connectedness and interaction types on perceived social support and companionship in smart homes.",
+			"secondContent": "Computers in Human Behavior, 75, 922-934."
+		},
+		{
+			"id": 6,
+			"people": "Kim, J., Choi, Y., & Park, S. E.",
+			"year": "2014",
+			"firstContent": "E-impression dimensions.",
+			"secondContent": "Multimedia Tools and Applications, 68(2), 281-296."
+		},
+		{
+			"id": 7,
+			"people": "Choi, J. H., Kim, S., Moon, J. Y., Kang, J., Lee, I., & Kim, J.",
+			"year": "2014",
+			"firstContent": "Seek or provide: Comparative effects of online information sharing on seniors’ quality of life.",
+			"secondContent": "Communications of the Association for Information Systems, 34(1), 513-530."
+		},
+		{
+			"id": 8,
+			"people": "Ji, Y., Choi, J., Lee, J., Han, K., Kim, J., & Lee, I.",
+			"year": "2010",
+			"firstContent": "Older Adults in an Aging Society and Social Computing: A Research Agenda.",
+			"secondContent": "International Journal of Human-Computer Interaction, 26 (11-12), 1122-1146."
+		},
+		{
+			"id": 9,
+			"people": "Jeong, K., Sung, J., Lee, H. S., Kim, A., Kim, H., Park, C., ... & Kim, J.",
+			"year": "2018, February",
+			"firstContent": "Fribo: A Social Networking Robot for Increasing Social Connectedness through Sharing Daily Home Activities from Living Noise Data.",
+			"secondContent": "In  Proceedings of the 2018 ACM/IEEE International Conference on Human-Robot Interaction (pp. 114-122). ACM."
+		},
+		{
+			"id": 10,
+			"people": "Jeong, G. M., Kim, A. R., Kim, H. M., Lee, J. H. & Kim, J. W.",
+			"year": "2017, May",
+			"firstContent": "\"Home Social Robots Sharing Indoor Activities with Friends: Field Study“",
+			"secondContent": "Late Breaking Result Abstracts at IEEE International Conference on Robotics and Automation (ICRA). IEEE."
+		},
+		{
+			"id": 11,
+			"people": "Kim, H. Y., Kim, B., Lee, J., & Kim, J.",
+			"year": "2017, May",
+			"firstContent": "Hey, Wake Up: Come Along with the Artificial Learning Companion to the e-Learner's Outcomes High!.",
+			"secondContent": "In Proceedings of the 2017 CHI Conference Extended Abstracts on Human Factors in Computing Systems (pp. 1763-1770). ACM."
+		},
+		{
+			"id": 12,
+			"people": "Kim, N., Yoon, B., Jin, S., Seo, H., Kwon, O., & Kim, J.",
+			"year": "2017, January",
+			"firstContent": "Internet of family: increasing social presence of family members via sharing ambient IoT usage data.",
+			"secondContent": "In Proceedings of the 11th International Conference on Ubiquitous Information Management and Communication (p. 49). ACM."
+		}
+	]
+}
