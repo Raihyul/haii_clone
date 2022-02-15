@@ -1,0 +1,992 @@
+{
+	"collaboration": [
+		{
+			"id": 1,
+			"name": {
+				"kor": "한국의학연구소",
+				"eng": "Korea Medical Institute"
+			},
+			"image": "../../assets/images/1. Main/3. Collaboration/1. Collaboration/collaboration-1-kmi.png"
+		},
+		{
+			"id": 2,
+			"name": {
+				"kor": "강남세브란스병원",
+				"eng": "Gangnam Severance Hospital"
+			},
+			"image": "../../assets/images/1. Main/3. Collaboration/1. Collaboration/collaboration-2-gsh.png"
+		},
+		{
+			"id": 3,
+			"name": {
+				"kor": "이대서울병원",
+				"eng": "EUMC Seoul"
+			},
+			"image": "../../assets/images/1. Main/3. Collaboration/1. Collaboration/collaboration-3-eumc-seoul.png"
+		},
+		{
+			"id": 4,
+			"name": {
+				"kor": "이대목동병원",
+				"eng": "EUMC Mokdong"
+			},
+			"image": "../../assets/images/1. Main/3. Collaboration/1. Collaboration/collaboration-4-eumc-mokdong.png"
+		},
+		{
+			"id": 5,
+			"name": {
+				"kor": "에자이",
+				"eng": "Eisai"
+			},
+			"image": "../../assets/images/1. Main/3. Collaboration/1. Collaboration/collaboration-5-eisai.png"
+		},
+		{
+			"id": 6,
+			"name": {
+				"kor": "연세대학교",
+				"eng": "Yonsei University"
+			},
+			"image": "../../assets/images/1. Main/3. Collaboration/1. Collaboration/collaboration-6-yonsei.png"
+		},
+		{
+			"id": 7,
+			"name": {
+				"kor": "서울대학교병원",
+				"eng": "SNUH"
+			},
+			"image": "../../assets/images/1. Main/3. Collaboration/1. Collaboration/collaboration-7-sunh.png"
+		},
+		{
+			"id": 8,
+			"name": {
+				"kor": "상명대학교",
+				"eng": "Sangmyung University"
+			},
+			"image": "../../assets/images/1. Main/3. Collaboration/1. Collaboration/collaboration-8-sangmyung.png"
+		},
+		{
+			"id": 9,
+			"name": {
+				"kor": "세브란스병원",
+				"eng": "Severance Hospital"
+			},
+			"image": "../../assets/images/1. Main/3. Collaboration/1. Collaboration/collaboration-9-sh.png"
+		}
+	],
+	"advisory": [
+		{
+			"id": 1,
+			"name": {
+				"kor": "김건하",
+				"eng": "Kim, Geonha"
+			},
+			"affiliation": {
+				"kor": "이대 목동 병원",
+				"eng": "Ewha Woman's University Medical Center"
+			},
+			"image": "../../assets/images/1. Main/3. Collaboration/2. Advisory/advisory-1-김건하.jpg"
+		},
+		{
+			"id": 2,
+			"name": {
+				"kor": "김재진",
+				"eng": "Kim, Jaejin"
+			},
+			"affiliation": {
+				"kor": "강남 세브란스 병원",
+				"eng": "Gangnam Severance Hospital"
+			},
+			"image": "../../assets/images/1. Main/3. Collaboration/2. Advisory/advisory-2-김재진.jpg"
+		},
+		{
+			"id": 3,
+			"name": {
+				"kor": "김홍일",
+				"eng": "Kim, Hong-il"
+			},
+			"affiliation": {
+				"kor": "전 D.camp 센터장",
+				"eng": "Former director of D.Camp"
+			},
+			"image": "../../assets/images/1. Main/3. Collaboration/2. Advisory/advisory-3-김홍일.jpg"
+		},
+		{
+			"id": 4,
+			"name": {
+				"kor": "박기환",
+				"eng": "Park, Kihwan"
+			},
+			"affiliation": {
+				"kor": "전 동화약품 대표",
+				"eng": "Former CEO of Donghwa Pharm"
+			},
+			"image": "../../assets/images/1. Main/3. Collaboration/2. Advisory/advisory-4-박기환.jpg"
+		},
+		{
+			"id": 5,
+			"name": {
+				"kor": "석정호",
+				"eng": "Seok, Jungho"
+			},
+			"affiliation": {
+				"kor": "강남 세브란스",
+				"eng": "Gangnam Severance Hospital"
+			},
+			"image": "../../assets/images/1. Main/3. Collaboration/2. Advisory/advisory-5-석정호.png"
+		},
+		{
+			"id": 6,
+			"name": {
+				"kor": "송태진",
+				"eng": "Song, Taejin"
+			},
+			"affiliation": {
+				"kor": "이대 목동 병원",
+				"eng": "Ewha Woman's University Medical Center"
+			},
+			"image": "../../assets/images/1. Main/3. Collaboration/2. Advisory/advisory-6-송태진.jpg"
+		},
+		{
+			"id": 7,
+			"name": {
+				"kor": "신의진",
+				"eng": "Shin, Uijin"
+			},
+			"affiliation": {
+				"kor": "신촌 세브란스 병원",
+				"eng": "Sinchon Severance Hospital"
+			},
+			"image": "../../assets/images/1. Main/3. Collaboration/2. Advisory/advisory-7-신의진.jpg"
+		},
+		{
+			"id": 8,
+			"name": {
+				"kor": "이지항",
+				"eng": "Lee, Jihang"
+			},
+			"affiliation": {
+				"kor": "상명대학교",
+				"eng": "Sangmyung University"
+			},
+			"image": "../../assets/images/1. Main/3. Collaboration/2. Advisory/advisory-8-이지항.jpg"
+		},
+		{
+			"id": 9,
+			"name": {
+				"kor": "편웅범",
+				"eng": "Pyeong, Woongbeom"
+			},
+			"affiliation": {
+				"kor": "서울대학교",
+				"eng": "Seoul National University"
+			},
+			"image": "../../assets/images/1. Main/3. Collaboration/2. Advisory/advisory-9-편웅범.jpg"
+		},
+		{
+			"id": 10,
+			"name": {
+				"kor": "하성욱",
+				"eng": "Ha, Sungwook"
+			},
+			"affiliation": {
+				"kor": "KMI 한국의학연구소",
+				"eng": "Korea Medical Institute"
+			},
+			"image": "../../assets/images/1. Main/3. Collaboration/2. Advisory/advisory-10-하성욱.png"
+		}
+	],
+	"publications": [
+		{
+			"id": 12,
+			"people": "Jinkyu, J., & Kim, J.",
+			"year": "2020",
+			"firstContent": "Healthier Life with Digital Companions: Effects of Reflection-Level and Statement-Type of Messages on Behavior Change via a Perceived Companion.",
+			"secondContent": "International Journal of Human–Computer Interaction, 36, 172-189."
+		},
+		{
+			"id": 11,
+			"people": "Lee, Y., Ha, M., Kwon, S., Shim, Y., & Kim, J.",
+			"year": "2019",
+			"firstContent": "Egoistic and altruistic motivation: How to induce users’ willingness to help for imperfect AI, Computers in Human Behavior 101, 180-196.",
+			"secondContent": ""
+		},
+		{
+			"id": 10,
+			"people": "Jang, J., Kim, J., Shin, H., Aum, H., & Kim, J.",
+			"year": "2018",
+			"firstContent": "The New Snapshot Narrators: Changing Your Visions and Perspectives!.",
+			"secondContent": "Interacting with Computers."
+		},
+		{
+			"id": 9,
+			"people": "Shin, Y., & Kim, J.",
+			"year": "2018",
+			"firstContent": "Data-centered persuasion: Nudging user's prosocial behavior and designing social innovation.",
+			"secondContent": "Computers in Human Behavior, 80, 168-178."
+		},
+		{
+			"id": 8,
+			"people": "Lee, B., Kwon, O., Lee, I., & Kim, J.",
+			"year": "2017",
+			"firstContent": "Companionship with smart home devices: The impact of social connectedness and interaction types on perceived social support and companionship in smart homes.",
+			"secondContent": "Computers in Human Behavior, 75, 922-934."
+		},
+		{
+			"id": 7,
+			"people": "Kim, J., Choi, Y., & Park, S. E.",
+			"year": "2014",
+			"firstContent": "E-impression dimensions.",
+			"secondContent": "Multimedia Tools and Applications, 68(2), 281-296."
+		},
+		{
+			"id": 6,
+			"people": "Choi, J. H., Kim, S., Moon, J. Y., Kang, J., Lee, I., & Kim, J.",
+			"year": "2014",
+			"firstContent": "Seek or provide: Comparative effects of online information sharing on seniors’ quality of life.",
+			"secondContent": "Communications of the Association for Information Systems, 34(1), 513-530."
+		},
+		{
+			"id": 5,
+			"people": "Ji, Y., Choi, J., Lee, J., Han, K., Kim, J., & Lee, I.",
+			"year": "2010",
+			"firstContent": "Older Adults in an Aging Society and Social Computing: A Research Agenda.",
+			"secondContent": "International Journal of Human-Computer Interaction, 26 (11-12), 1122-1146."
+		},
+		{
+			"id": 4,
+			"people": "Jeong, K., Sung, J., Lee, H. S., Kim, A., Kim, H., Park, C., ... & Kim, J.",
+			"year": "2018, February",
+			"firstContent": "Fribo: A Social Networking Robot for Increasing Social Connectedness through Sharing Daily Home Activities from Living Noise Data.",
+			"secondContent": "In  Proceedings of the 2018 ACM/IEEE International Conference on Human-Robot Interaction (pp. 114-122). ACM."
+		},
+		{
+			"id": 3,
+			"people": "Jeong, G. M., Kim, A. R., Kim, H. M., Lee, J. H. & Kim, J. W.",
+			"year": "2017, May",
+			"firstContent": "\"Home Social Robots Sharing Indoor Activities with Friends: Field Study“",
+			"secondContent": "Late Breaking Result Abstracts at IEEE International Conference on Robotics and Automation (ICRA). IEEE."
+		},
+		{
+			"id": 2,
+			"people": "Kim, H. Y., Kim, B., Lee, J., & Kim, J.",
+			"year": "2017, May",
+			"firstContent": "Hey, Wake Up: Come Along with the Artificial Learning Companion to the e-Learner's Outcomes High!.",
+			"secondContent": "In Proceedings of the 2017 CHI Conference Extended Abstracts on Human Factors in Computing Systems (pp. 1763-1770). ACM."
+		},
+		{
+			"id": 1,
+			"people": "Kim, N., Yoon, B., Jin, S., Seo, H., Kwon, O., & Kim, J.",
+			"year": "2017, January",
+			"firstContent": "Internet of family: increasing social presence of family members via sharing ambient IoT usage data.",
+			"secondContent": "In Proceedings of the 11th International Conference on Ubiquitous Information Management and Communication (p. 49). ACM."
+		}
+	],
+	"news": [
+		{
+			"id": 14,
+			"thumbnail": "../../assets/images/5. News/news-14.jpeg",
+			"date": "2022.02.10",
+			"url": "https://www.getnews.co.kr/news/articleView.html?idxno=571900",
+			"title": "디지털치료제 하이, 만족도 60% 이상·인지능력 및 정서개선 효과",
+			"content": "디지털치료제 전문기업 하이는 지난 9일 대전광역시 호텔 선샤인에서 ‘2022 순천농협 디지털 커뮤니티케어 시범사업(Care & Cure)’ 최종 보고회를 진행했다. 디지털치료제 전문기업 하이와 순천농협은 지난 2020년 9월부터 11월 말까지 55세 이상 순천농협 조합원 187명을 대상으로 시니어 돌봄 시범사업을 진행했다. 시니어 돌봄 시범사업은 어르신들의 치매나 정서 문제를 예방 및 관리하는 종합 돌봄 프로그램이다. 본 프로그램은 치매 자가진단 프로그램 ‘알츠가드(Alzguard)’, 인지기능 강화 프로그램 ‘뇌건강지킴이 새미’ 그리고 정서 돌봄 프로그램 ‘스마트 마실방’ 세 부분으로 구성되어 있다."
+		},
+		{
+			"id": 13,
+			"thumbnail": "../../assets/images/5. News/news-13.jpeg",
+			"date": "2022.02.09",
+			"url": "https://m.mt.co.kr/renew/view.html?no=2022020915222948625",
+			"title": "DTx 스타트업 '하이', 범불안장애 치료제 식약처 확증적 임상 승인",
+			"content": "디지털 치료제(Digital Therapeutics, DTx) 개발 스타트업 하이(HAII)가 식품의약품안전처로부터 범불안장애 디지털 치료제 '엥자이렉스(Anzeilax)'의 확증적 임상시험을 승인받았다고 9일 밝혔다. 2016년 설립된 하이는 정신질환치료를 위한 디지털 치료제를 개발하고 있다. 범불안(정서)장애, 인지장애, 주의력결핍 과잉행동장애(ADHD), 마비성 언어장애 등 4개의 파이프라인을 보유하고 있다."
+		},
+		{
+			"id": 12,
+			"thumbnail": "../../assets/images/5. News/news-12.jpeg",
+			"date": "2021.12.26",
+			"url": "https://n.news.naver.com/mnews/article/008/0004688059?sid=101",
+			"title": "신약 개발 나선 경영학 교수?…치매 잡는 'K-디지털치료제' 뜬다",
+			"content": "[김진우 하이 대표 \"AI로 생체신호 감지 질병 치료·관리하는 디지털 표적치료제로 승부\"] 스타트업 '하이'는 치매뿐 아니라 불안·우울 등 정신질환 여부를 조기에 측정하고, 나아가 예방하는 '디지털 치료제'(DTX)를 개발하고 있다. 디지털 치료제는 인공지능(AI)을 활용한 질병 보조 진단부터 예방·개선·관리하는 소프트웨어다. 먹는 약처럼 주기적으로 사용하면서 환자의 증상을 개선시킬 것으로 기대를 모으고 있다."
+		},
+		{
+			"id": 11,
+			"thumbnail": "../../assets/images/5. News/news-11.jpeg",
+			"date": "2021.12.02",
+			"url": "http://www.bosa.co.kr/news/articleView.html?idxno=2163584",
+			"title": "고신대병원, (주)하이와 스마트헬스케어 구축 업무협약",
+			"content": "고신대복음병원은 지난 1일 '주식회사 하이'와 스마트헬스케어 구축 협력을 위한 업무협약을 체결했다. 이날 협약에서 양측은 스마트 헬스케어 산업 기술경쟁력 강화를 위한 정보교환 및 공동연구, 챗봇을 통한 신경ㆍ정신 관련질환 치료 협력, 의료 인공지능 분야 신기술 개발 등을 약속했다. (주)하이는 치매, 우울증, 불안장애 등의 정신질환을 예방하고 관리하는 디지털 치료제를 바탕으로 혁신적인 아이템을 개발하는 벤처기업이다. 지난 5월에는 치매 예방을 위한 인지훈련 챗봇 '뇌 건강 지키미 새미'를 시범 서비스로 론칭한 바 있다."
+		},
+		{
+			"id": 10,
+			"thumbnail": "../../assets/images/5. News/news-10.jpeg",
+			"date": "2021.10.19",
+			"url": "https://www.edaily.co.kr/news/read?newsId=02138566629214560&mediaCodeNo=257",
+			"title": "디지털 치료제 뛰어든 경영학 교수…\"'복약순응도' 높이기 자신\"",
+			"content": "디지털 치료제 기업 하이 김진우 대표 인터뷰 '사용자 인터페이스·경험' 평생 연구한 전문가 미 FDA도 복약순응도 중시, 허가 이후 재평가 스마트폰으로 바이오마커 파악·치료 '편의성' 내년 초 범불안장애 치료제 확증임상 승인 기대 경쟁사들과 사회적 협동조합 설립도 계획 중"
+		},
+		{
+			"id": 9,
+			"thumbnail": "../../assets/images/5. News/news-9.jpg",
+			"date": "2021.08.17",
+			"url": "https://www.etnews.com/20210817000111",
+			"title": "HAII, 지역 공동체와 손잡고 ESG 경영 가속…협동조합 설립도 추진",
+			"content": "하이는 오는 9월부터 순천농협과 함께 알츠가드 시범서비스를 200명 대상으로 진행한다. 경도인지장애 및 치매를 진단하고 예방할 수 있는 훈련 프로그램을 공동 운영하고, 고령 농협 조합원의 돌봄 및 건강복지 체계를 마련하는 게 핵심이다. 이번 시범사업은 하이가 지난해 출시한 치매 예방을 돕는 챗봇 '새미톡'을 기반으로 한다. 성과가 좋으면 내년에 1만8000명 대상으로 본 서비스를 진행한다."
+		},
+		{
+			"id": 8,
+			"thumbnail": "../../assets/images/5. News/news-8.jpg",
+			"date": "2021.08.12",
+			"url": "https://www.breaknews.com/826708",
+			"title": "HAII, 디지털 치료제 기반 ‘Care & Cure 시범사업’ 업무협약",
+			"content": "디지털치료제로 만드는 새로운 안녕 HAII(하이)가 순천 농협과 커뮤니티 케어 체계 구축을 위한 디지털 치료제 기반의 ‘Care & Cure 시범사업 운영’을 위한 업무협약 체결했다. 이번 협약을 통해 농협 조합원 대상 치매 예방 시범 사업을 진행할 예정이다."
+		},
+		{
+			"id": 7,
+			"thumbnail": "../../assets/images/5. News/news-7.jpg",
+			"date": "2021.06.18",
+			"url": "https://socialvalueconnect.com/community/view.do?communitySeq=166&listParam=searchType%3DTalk%26sortType%3D1%26pageNo%3D1%26listSize%3D9%26searchWord%3D",
+			"title": "[전문가기고] 시대의 아픔을 넘어서, 포스트 코로나 시대 디지털 치료제의 사회적 가치",
+			"content": "디지털 치료제는 IT 헬스케어 분야에서 급격히 주목받고 있습니다. 모바일 어플리케이션, 챗봇과 같은 소프트웨어를 실제 질환을 치료하기 위한 ‘약’으로 사용하는 것이 디지털 치료제입니다. 미국의 FDA 혹은 한국의 식품의약품안전처와 같은 의약품 관련 관리기관에서 치료 목적으로 효과에 대한 인증을 받은 소프트웨어를 의료기관에서 처방하거나 의료보험을 적용할 수 있는 형태입니다. 정신건강분야에서의 디지털치료제는 정신건강의학과 진료에 대한 환자의 제도적 장벽과 심리적 장벽을 동시에 극복할 수 있게 합니다."
+		},
+		{
+			"id": 6,
+			"thumbnail": "../../assets/images/5. News/news-6.jpg",
+			"date": "2021.06.09",
+			"url": "https://shindonga.donga.com/3/all/13/2703412/1",
+			"title": "디지털  헬스케어 전 쟁...애플 구글MS 누가 이 길까",
+			"content": "우리나라에서는 디지털치료제 개발사 하이 가 만든 마음정원 이 최근 국내 최초로 우수 의약품 제조및 품질관리 기준(GMP)’ 인증을  획득 했다. 마음정원은 정기적으로 정신건강을 관리해야 하는불안장애 및 우울증 환자를 대상으로 만든 메신저 기반 불안장애 치료제다. 하이는 현재베타서비스단계인 마음정원 상용화를 위해올해 강 남세브란 스 병원과 임상시험을 진행할 예정이다."
+		},
+		{
+			"id": 5,
+			"thumbnail": "../../assets/images/5. News/news-5.jpg",
+			"date": "2021.05.07",
+			"url": "http://tk.newdaily.co.kr/site/data/html/2021/05/07/2021050700118.html",
+			"title": "대구시교육청-하이(HA), ADHDII아동 지원 위한 업무협약 체결",
+			"content": "대구시교육청은 디지털치료제 전문회사 ‘하이(HAII)’와 교육협력을 체결하여 저학년 초등학생의 자기조절력 향상을 위한 스크리닝 도구 및 디지털 헬스케어 ‘뽀미’ 개발을 위해 공동 연구를 추진한다."
+		},
+		{
+			"id": 4,
+			"thumbnail": "../../assets/images/5. News/news-4.jpg",
+			"date": "2021.04.30",
+			"url": "https://economist.co.kr/2021/04/29/bioHealth/healthCare/20210429094800215.html",
+			"title": "앱으로 재활치료 한다, '1호 디지털치료제' 각축 전",
+			"content": "하이같은 의료기기를 식약처에선 ‘소프트웨어 의료기기’로 분류한다. 디지털헬스업계에선 ‘디지털 치료제’(Digital Therapeutics, DTx)라는 이름을 붙였다. 복용에 따른 부작용이 없고 치료비용이 저렴하기 때문에 합성의약품과 바이오의약품에 이어 3세대 치료제가 될 거란 기대 섞인 전망도 나온다."
+		},
+		{
+			"id": 3,
+			"thumbnail": "../../assets/images/5. News/news-3.jpg",
+			"date": "2020.07.06",
+			"url": "https://www.hankyung.com/economy/article/202007068945a",
+			"title": "치매 조기 발견 및 예방 플랫폼 나온다...  한국에자이, 6일 (주)하이와 업무 협약 맺어",
+			"content": "최근 글로벌 헬스케어 기업 ‘한국에자이’에서는 연세대학교 학교 기업인 주식회사 하이(Haii)와 업무 협약을 맺고, 치매 조기 발견 및 예방 플랫폼 구축에 힘을 쏟을 계획이라고 밝혔다. 이번 업무 협약을 통해 양사는 치매 조기 발견 및 예방을 목적으로 한 플랫폼을 구축할 계획이다. 이에, 한국에자이의 헬스 케어 관련 전문 지식과 ㈜하이의 인공 지능 기술이 합쳐져 좋은 시너지 효과를 낼 것이 기대된다."
+		},
+		{
+			"id": 2,
+			"thumbnail": "../../assets/images/5. News/news-2.jpg",
+			"date": "2020.07.05",
+			"url": "http://kids.donga.com/?ptype=article&no=20200705135016148807",
+			"title": "VR·게임으로 질병 치료하는 `디지털 치료제`는?",
+			"content": "모바일 메신저인 카카오톡에서 이용가능한 `챗봇(문자·음성으로 대화하는 기능이 있는 인공지능)`을 통해 치매를 예방하는 치료법도 나왔다. 하이가 개발한 챗봇 `새미`는 사용자가 인공지능과대화를 통해 계산 및 언어 능력, 기억력, 집중력을 향상시키는 등 치매를 예방하는 훈련 프로그램을제공한다."
+		},
+		{
+			"id": 1,
+			"thumbnail": "../../assets/images/5. News/news-1.jpg",
+			"date": "2020.04.24",
+			"url": "https://www.etnews.com/20200424000032",
+			"title": "코리아HCI&UX/UI 서밋2020' 6월17일 개최",
+			"content": "연세대학교 HCI랩의 김진우 교수(스타트업HAII 대표)가 '코리아 HCI & UX/UI 서밋 2020'에서 \"치유의 사용자 경험-디지털 신약(Digital Therapeutics)\"을 발표한다."
+		}
+	],
+	"investors": [
+		{
+			"id": 1,
+			"name": {
+				"kor": "연세대",
+				"eng": "Yonsei University"
+			},
+			"image": "../../assets/images/6. Partners/investors-1-연세대.png"
+		},
+		{
+			"id": 2,
+			"name": {
+				"kor": "D.CAMP",
+				"eng": "D.CAMP"
+			},
+			"image": "../../assets/images/6. Partners/investors-2-D.CAMP.jpg"
+		},
+		{
+			"id": 3,
+			"name": {
+				"kor": "위벤쳐스",
+				"eng": "We Ventures Limited Company"
+			},
+			"image": "../../assets/images/6. Partners/investors-3-위벤쳐스.jpg"
+		},
+		{
+			"id": 4,
+			"name": {
+				"kor": "KB증권",
+				"eng": "KB Securities co.Ltd"
+			},
+			"image": "../../assets/images/6. Partners/investors-4-KB증권.jpg"
+		},
+		{
+			"id": 5,
+			"name": {
+				"kor": "KB 인베스트먼트",
+				"eng": "KB Investment"
+			},
+			"image": "../../assets/images/6. Partners/investors-5-KB 인베스트먼트.jpg"
+		},
+		{
+			"id": 6,
+			"name": {
+				"kor": "캡스톤파트너스",
+				"eng": "CAPSTONE Partners Inc"
+			},
+			"image": "../../assets/images/6. Partners/investors-6-캡스톤파트너스.png"
+		},
+		{
+			"id": 7,
+			"name": {
+				"kor": "어니스트벤쳐스",
+				"eng": "Honest Ventures LLC"
+			},
+			"image": "../../assets/images/6. Partners/investors-7-어니스트벤쳐스.jpg"
+		}
+	],
+	"partners": [
+		{
+			"id": 1,
+			"name": {
+				"kor": "순천 농협",
+				"eng": "Suncheon NH Cooperative"
+			},
+			"image": "../../assets/images/6. Partners/partners-1-순천 농협.jpg"
+		},
+		{
+			"id": 2,
+			"name": {
+				"kor": "전남복지재단",
+				"eng": "Jeollanamdo Public Agency for Social Service"
+			},
+			"image": "../../assets/images/6. Partners/partners-2-전남복지재단.jpg"
+		},
+		{
+			"id": 3,
+			"name": {
+				"kor": "대구시교육청",
+				"eng": "Daegu Metropolitan Office of Education"
+			},
+			"image": "../../assets/images/6. Partners/partners-3-대구시교육청.jpg"
+		},
+		{
+			"id": 4,
+			"name": {
+				"kor": "에자이",
+				"eng": "EISAI KOREA INC"
+			},
+			"image": "../../assets/images/6. Partners/partners-4-에자이.jpg"
+		}
+	],
+	"video": [
+		{
+			"id": 1,
+			"url": "https://www.youtube.com/embed/EjYxfjUHgP4"
+		},
+		{
+			"id": 2,
+			"url": "https://www.youtube.com/embed/-E2eTEb5a0s"
+		},
+		{
+			"id": 3,
+			"url": "https://www.youtube.com/embed/nzgfUlMRwyc"
+		},
+		{
+			"id": 4,
+			"url": "https://www.youtube.com/embed/2bCba3bn4mI"
+		},
+		{
+			"id": 5,
+			"url": "https://www.youtube.com/embed/F0hrKKvZupg"
+		},
+		{
+			"id": 6,
+			"url": "https://www.youtube.com/embed/rcsrh9l0ukg"
+		},
+		{
+			"id": 7,
+			"url": "https://www.youtube.com/embed/NYX_tK-adXY"
+		},
+		{
+			"id": 8,
+			"url": "https://www.youtube.com/embed/261R0UXBM4c"
+		}
+	],
+	"photo": [
+		{
+			"id": 14,
+			"title": {
+				"kor": "대한디지털치료학회 추계학술대회 참여",
+				"eng": "Participating in the Korean Society for Digital Therapy's Autumn Conference"
+			},
+			"image": "../../assets/images/7. Gallery/gallery-14.jpg"
+		},
+		{
+			"id": 13,
+			"title": {
+				"kor": "개발팀 내부 시연 TESS",
+				"eng": "Development team's internal demonstration - TESS"
+			},
+			"image": "../../assets/images/7. Gallery/gallery-13.jpg"
+		},
+		{
+			"id": 12,
+			"title": {
+				"kor": "개발팀 내부 시연 알츠가드",
+				"eng": "Development team's internal demonstration - alzguard"
+			},
+			"image": "../../assets/images/7. Gallery/gallery-12.jpg"
+		},
+		{
+			"id": 11,
+			"title": {
+				"kor": "개발팀 내부 시연 뽀미",
+				"eng": "Development team's internal demonstration - ForMe"
+			},
+			"image": "../../assets/images/7. Gallery/gallery-11.jpg"
+		},
+		{
+			"id": 10,
+			"title": {
+				"kor": "대한노인정신의학회 추계학술대회 및 연수교육",
+				"eng": "Autumn Conference and Training Education of the Korean Association for Geriatric Psychiatry"
+			},
+			"image": "../../assets/images/7. Gallery/gallery-10.jpeg"
+		},
+		{
+			"id": 9,
+			"title": {
+				"kor": "뽀미, 대구시 교육청에서 시연 행사 진행",
+				"eng": "ForMe, Demonstration event at Daegu Metropolitan Office Of Education"
+			},
+			"image": "../../assets/images/7. Gallery/gallery-9.jpg"
+		},
+		{
+			"id": 8,
+			"title": {
+				"kor": "HAII 우수 성과자 보상",
+				"eng": "Compensation for outstanding performance of HAII"
+			},
+			"image": "../../assets/images/7. Gallery/gallery-8.jpg"
+		},
+		{
+			"id": 7,
+			"title": {
+				"kor": "신한 커리어온 프로그램 진행",
+				"eng": "Shinhan Carrer-On program"
+			},
+			"image": "../../assets/images/7. Gallery/gallery-7.jpg"
+		},
+		{
+			"id": 6,
+			"title": {
+				"kor": "추천 채용 보상 제도",
+				"eng": "Recommendation recruitment compensation system"
+			},
+			"image": "../../assets/images/7. Gallery/gallery-6.jpg"
+		},
+		{
+			"id": 5,
+			"title": {
+				"kor": "하이의 OKR 미팅",
+				"eng": "OKR meeting of HAII"
+			},
+			"image": "../../assets/images/7. Gallery/gallery-5.jpg"
+		},
+		{
+			"id": 4,
+			"title": {
+				"kor": "하이의 타운홀 미팅",
+				"eng": "Town hall meeting of HAII"
+			},
+			"image": "../../assets/images/7. Gallery/gallery-4.jpg"
+		},
+		{
+			"id": 3,
+			"title": {
+				"kor": "하이 내부 교육",
+				"eng": "Internal training of HAII"
+			},
+			"image": "../../assets/images/7. Gallery/gallery-3.jpg"
+		},
+		{
+			"id": 2,
+			"title": {
+				"kor": "하이 생일 파티",
+				"eng": "Birthday party of HAII"
+			},
+			"image": "../../assets/images/7. Gallery/gallery-2.jpg"
+		},
+		{
+			"id": 1,
+			"title": {
+				"kor": "하이 송년회",
+				"eng": "Year-end party of HAII"
+			},
+			"image": "../../assets/images/7. Gallery/gallery-1.jpg"
+		}
+	],
+	"members": [
+		{
+			"id": 1,
+			"name": {
+				"kor": "정훈엽",
+				"eng": "Jung, Hoonyup"
+			},
+			"department": {
+				"kor": "개발총괄",
+				"eng": "Head of Development"
+			},
+			"introduction": {
+				"kor": "20년 개발 경력의 하이의 연구소장으로 모든 개발 툴을 다룰 수 있는 개발 마스터!하이의 자랑인 프로그래밍 어벤져스 팀의 수장으로 하이가 만들고 싶은 새로운 안녕의 꿈을 현실로 만드는 1등 공신",
+				"eng": "As head of development, a.k.a. The Avengers, with over 20 years of experience programming with multiple tech stacks, his main focus is making HAII’s dream come true, bringing the new Hi to the world."
+			},
+			"image": "../../assets/images/8. Members/members-1-정훈엽.jpg"
+		},
+		{
+			"id": 2,
+			"name": {
+				"kor": "김동한",
+				"eng": "Kim, Donghan"
+			},
+			"department": {
+				"kor": "개발 팀",
+				"eng": "Development"
+			},
+			"introduction": {
+				"kor": "백앤드, 프론트앤드, 네트워크, 보안까지 모두 마스터한 풀스택 개발자.하지만 그는 아직 배가 고프다, 이제는 딥러닝 마스터를 노린다.크로스핏부터 파워리프팅, 러닝까지 운동도 풀스택!이 남자의 배움에 대한 열정, 그 끝은 어디일까?",
+				"eng": "Although he is a full-stack developer working on the front-end, back-end, network, and security, he is still hungry to learn more and now he has his eyes on deep learning!He’s also a full-stack athlete doing Crossfit, powerlifting, and running. We are excited to see where his passion for learning will take him next."
+			},
+			"image": "../../assets/images/8. Members/members-2-김동한.jpg"
+		},
+		{
+			"id": 3,
+			"name": {
+				"kor": "임상권",
+				"eng": "Lim, Sangkwon"
+			},
+			"department": {
+				"kor": "개발 팀",
+				"eng": "Development"
+			},
+			"introduction": {
+				"kor": "세상의 모든 새로운 것에 관심을 가지고 있는 마음 따스한 풀스택 개발자세상에 새로운 가치를 제공하려는 하이의 따뜻한 기술에 매력을 느끼며 하이에 합류항상 웃는 얼굴로 하이 개발팀의 밝은 분위기를 만드는 1등 공신",
+				"eng": "He is a warm-hearted full-stack developer interested in all the new things in the world. He has joined the team to help the world through HAII’s technology and services. His smile always brings the team good vibes!"
+			},
+			"image": "../../assets/images/8. Members/members-3-임상권.jpg"
+		},
+		{
+			"id": 4,
+			"name": {
+				"kor": "안정환",
+				"eng": "Ahn, Junghwan"
+			},
+			"department": {
+				"kor": "개발 팀",
+				"eng": "Development"
+			},
+			"introduction": {
+				"kor": "하이를 하드캐리하는 만능 개발자제품의 프로그래밍을 넘어서 기획과 디자인, 연구도 함께 고민 중인, 센스 만점의 만능 개발자!담당 업무를 넘어서,  하이에서 필요로 하는 iOS, AOS,  웹 개발까지 캐리 중!  하이가 만들고있는 새로운 안녕을 실제로 구현하는 1등 공신",
+				"eng": "Although he is a developer his interests are not limited to programming but include service planning and design. He’s developing the new Hi with his IOS, AOS, and web development skills."
+			},
+			"image": "../../assets/images/8. Members/members-4-안정환.jpg"
+		},
+		{
+			"id": 5,
+			"name": {
+				"kor": "유정상",
+				"eng": "Yu, Jeongsang"
+			},
+			"department": {
+				"kor": "개발 팀",
+				"eng": "Development"
+			},
+			"introduction": {
+				"kor": "세상을 더욱 편리하게 만드는 서비스 앱을 개발해온 Android 개발자.이제 서비스 개발을 통해 편리한 세상에서 사람들이 더 아름다운 삶을 살 수 있도록 돕는데 함께 하고 싶은 개발자. Android에 국한되지 않고 더 많은 클라이언트로 세상 사람들과 호흡 하고 싶은 욕심이 꿈틀대는 중.",
+				"eng": "Android developer who has developed a service app that makes the world more convenient.Now, a developer who wants to join us in helping people live a more beautiful life in a convenient world through service development. The desire to breathe with the world with more clients, not limited to Android, is wriggling."
+			},
+			"image": "../../assets/images/8. Members/members-5-유정상.jpg"
+		},
+		{
+			"id": 6,
+			"name": {
+				"kor": "진상호",
+				"eng": "Jin, Sangho"
+			},
+			"department": {
+				"kor": "개발 팀",
+				"eng": "Development"
+			},
+			"introduction": {
+				"kor": "창업까지 경험해 본 IOS 개발자.다정다감한 목소리는 현재 수행 중인 불안장애 디지털 치료제 개발과 찰떡궁합!현재 HAII에서 개발 중인 불안장애 치료앱이 세상을 조금이라도 더 나아지게 만들었으면좋겠다고 이야기하는 따뜻한 개발자.",
+				"eng": "He is an IOS developer with experience building his own business. His focus is on developing digital therapeutics for anxiety disorders. He hopes this will make the world a better place for all people."
+			},
+			"image": "../../assets/images/8. Members/members-6-진상호.jpg"
+		},
+		{
+			"id": 7,
+			"name": {
+				"kor": "황혜빈",
+				"eng": "Hwang, Hyebin"
+			},
+			"department": {
+				"kor": "개발 팀",
+				"eng": "Development"
+			},
+			"introduction": {
+				"kor": "반짝반짝 빛나는 미래도 좋지만, 그보다 아무도 외롭지 않은 미래를 만들 수 있으면 좋겠다는 책의 단 한 구절에 이끌려 하이에 합류하게 된 서버 개발자. 겉은 조용하지만 속에는 단단한 멘탈과 강한 심지를 품고 꿈꾸는 미래를 향해 한 걸음씩 나아가는 중.",
+				"eng": "A server developer who joined Hi, led by a single phrase in the book that he liked the sparkling future, but hoped that no one would be lonely. Step by step toward the future of dreaming with a quiet outside but strong mentality and strong wick inside."
+			},
+			"image": "../../assets/images/8. Members/members-7-황혜빈.jpg"
+		},
+		{
+			"id": 8,
+			"name": {
+				"kor": "최지안",
+				"eng": "Choe, Jain"
+			},
+			"department": {
+				"kor": "개발 팀",
+				"eng": "Development"
+			},
+			"introduction": {
+				"kor": "작지만 강하다! 디지털 치료제의 매력을 느껴 하이와 함께 세상에 새로운 가치를 제공하고자 하이에 합류! 개발팀의 막내로서 분위기를 담당하고 있지만,  모두가 필요로 하는 만능 개발자가 되기 위하여 열정을 불태우는 중.",
+				"eng": "Small but strong! Feel the charm of digital therapies and join Hi to provide new value to the world with Hi! He is in charge of the atmosphere as the youngest member of the development team, but he is burning his passion to become an all-around developer that everyone needs."
+			},
+			"image": "../../assets/images/8. Members/members-8-최지안.jpg"
+		},
+		{
+			"id": 9,
+			"name": {
+				"kor": "김지영",
+				"eng": "Kim, Jiyeong"
+			},
+			"department": {
+				"kor": "개발 팀",
+				"eng": "Development"
+			},
+			"introduction": {
+				"kor": "세상에 도움을 주는 프로그램을 만들고 싶은 개발자. 운동을 좋아하는, 뭐든지 열심히 하려는 열정 가득한 노력파. 끊임없이 발전하고 성장하는 중!",
+				"eng": "Developers who want to create programs that help the world. He likes sports and tries hard to do everything. Continuously improving and growing!"
+			},
+			"image": "../../assets/images/8. Members/members-9-김지영.jpg"
+		},
+		{
+			"id": 10,
+			"name": {
+				"kor": "김호영",
+				"eng": "Kim, Hoyoung"
+			},
+			"department": {
+				"kor": "경영총괄",
+				"eng": "Head of Operations"
+			},
+			"introduction": {
+				"kor": "HAII가 만드는 새로운 안녕이라는 가치를 위해 A부터 Z까지를 책임지고 있는 능력자,누구보다 자세히 하이의 내부 현황을 파악하고, 누구보다 꼼꼼하게 하이가 나아갈 방향을 정하며, 누구보다 치열하게 하이의 파트너들과의 시너지 생산을 고민 중!",
+				"eng": "He wears many hats to make the new Hi with HAII! He drives the company’s strategy and employee engagement programs, supporting the company’s continued growth and innovation."
+			},
+			"image": "../../assets/images/8. Members/members-10-김호영.jpg"
+		},
+		{
+			"id": 11,
+			"name": {
+				"kor": "박도은",
+				"eng": "Park, Doeun"
+			},
+			"department": {
+				"kor": "R&D",
+				"eng": "R&D"
+			},
+			"introduction": {
+				"kor": "명실상부한 하이의 주춧돌!취미를 잊을 정도의 책임감으로 ADHD 아동들을 위한 디지털 치료제를 탄생시킨 장본인.하이의 모든 직원은 그녀의 업무에 대한 능력과 진정성에 매일 감동받는 중!",
+				"eng": "She is the main player in the digital therapeutics for ADHD project and her hard work and responsibility are always inspirations to the rest of the team."
+			},
+			"image": "../../assets/images/8. Members/members-11-박도은.jpg"
+		},
+		{
+			"id": 12,
+			"name": {
+				"kor": "박찬미",
+				"eng": "Park, Chanmi"
+			},
+			"department": {
+				"kor": "R&D",
+				"eng": "R&D"
+			},
+			"introduction": {
+				"kor": "하이를 이끌어가는 불안장애 치료제 팀의 수장,자신이 평범하다 이야기하지만,  매일같이 러닝을 하고 소설을 읽는 “배움에는 끝이 없다”말하는 빛나는 특별함,능력 있지만 겸손한 이상적인 Human Computer Interaction의 전문가",
+				"eng": "She’s the head of the anxiety therapy team and an expert in Human Computer Interaction. She likes to go running and read novels and remains humble to learn new things continuously."
+			},
+			"image": "../../assets/images/8. Members/members-12-박찬미.jpg"
+		},
+		{
+			"id": 13,
+			"name": {
+				"kor": "문수현",
+				"eng": "Moon, Soohyun"
+			},
+			"department": {
+				"kor": "R&D",
+				"eng": "R&D"
+			},
+			"introduction": {
+				"kor": "여행을 즐기고, 운동을 좋아하는 활동적인 연구자,아무도 못 말리는 그녀의 열정을 하이 모두가 인정!긍정 에너지를 좋은 치료제로 승화시키기 위해 오늘도 연구 중",
+				"eng": "She is researching and developing better therapies with her positive energy. Outside of work, she likes to stay active, travel and exercise."
+			},
+			"image": "../../assets/images/8. Members/members-13-문수현.jpg"
+		},
+		{
+			"id": 14,
+			"name": {
+				"kor": "양국지",
+				"eng": "Yang, Gookji"
+			},
+			"department": {
+				"kor": "R&D",
+				"eng": "R&D"
+			},
+			"introduction": {
+				"kor": "앱 서비스의 UX/UI 디자인 전문가,디자인과 개발 간의 소통은 그녀의 또 다른 전문 분야!불안치료 치료제의 HCI, 음성, AI기반의 서비스 기획을 담당하고 있으며, 더욱 재미있는 서비스 요소를 고민하는 다재다능한 서비스 기획자!",
+				"eng": "She is a UI/UX designer and a great communicator. Her main focus is on HCI, voice, and AI-based business planning for the anxiety therapy service and adding fun elements for the users."
+			},
+			"image": "../../assets/images/8. Members/members-14-양국지.jpg"
+		},
+		{
+			"id": 15,
+			"name": {
+				"kor": "김유영",
+				"eng": "Kim. Yooyoung"
+			},
+			"department": {
+				"kor": "R&D",
+				"eng": "R&D"
+			},
+			"introduction": {
+				"kor": "마비말장애 치료제와 치매 진단 프로그램 프로젝트의 빛과 소금.큰 그림부터 디테일까지 하나도 놓치지 않는 HAII의 진정한 프로페셔널.한번 같이 일해본 사람이라면 인정하지 않을 수 없는 HAII의 실력자",
+				"eng": "She is participating in the dysarthria therapy project and dementia diagnosis project. She is detail-oriented while never missing the bigger picture of projects, leading them to success."
+			},
+			"image": "../../assets/images/8. Members/members-15-김유영.jpg"
+		},
+		{
+			"id": 16,
+			"name": {
+				"kor": "김민정",
+				"eng": "Kim, Minjung"
+			},
+			"department": {
+				"kor": "R&D",
+				"eng": "R&D"
+			},
+			"introduction": {
+				"kor": "사람들에게 도움을 주고자 하는 마음으로 심리학을 전공한 후,  기술을 통해 사람들의 삶의 질을 향상 시킬 수 있다는 믿음으로 HAII에서 열일 중인 따뜻한 재능러.HAII의 프로젝트를 통해 많은 사람들에게 도움을 줄 수 있다는 생각에 행복한 마음으로 오늘도 업무를 수행 중!",
+				"eng": "She received her degree in psychology to gain a greater understanding of people. She wants to help people increase their well-being with HAII’s technology and values."
+			},
+			"image": "../../assets/images/8. Members/members-16-김민정.jpg"
+		},
+		{
+			"id": 17,
+			"name": {
+				"kor": "김보희",
+				"eng": "Kim, Bohee"
+			},
+			"department": {
+				"kor": "R&D",
+				"eng": "R&D"
+			},
+			"introduction": {
+				"kor": "HAII의 기술이 사회적  약자에게 도움이 되길 바라며 새미톡을 만드는 산업디자인 전공 출신의 Human Computer Interaction 전문가. 언제나 활동적이고 적극적인 태도로 새미톡 프로젝트전반을 핸들링할 수 있는 기반은 운동으로 다져진 체력이라고!",
+				"eng": "She received her degree in industrial design and joined us to develop Saemi Talk to help the socially underprivileged. As an expert in Human Computer Interaction, she’s overseeing the Saemi Talk project with her active attitude and energy gained through an active lifestyle."
+			},
+			"image": "../../assets/images/8. Members/members-17-김보희.jpg"
+		},
+		{
+			"id": 18,
+			"name": {
+				"kor": "이정윤",
+				"eng": "Lee, Jungyoon"
+			},
+			"department": {
+				"kor": "경영지원 팀",
+				"eng": "Business Support"
+			},
+			"introduction": {
+				"kor": "하이의 직원들에게 일주일에 한번은 “감사하다”라는 인사를 듣는 하이의 경영지원 매니저.하이의 직원들이 직무에만 집중할 수 있는 환경을 만들기 위해 언제나 노력하는 중.회사에서는 항상 꼼꼼하게 일을 하지만, 주말에는 거친  산을 등반하는 반전 매력의 소유자",
+				"eng": "We always express our thankfulness to have her as our support manager! She takes care of the office allowing us to only focus on our work. She enjoys hiking outside of work. "
+			},
+			"image": "../../assets/images/8. Members/members-18-이정윤.jpg"
+		},
+		{
+			"id": 19,
+			"name": {
+				"kor": "박성희",
+				"eng": "Park, Seonghui"
+			},
+			"department": {
+				"kor": "인허가 팀",
+				"eng": "License"
+			},
+			"introduction": {
+				"kor": "하이 제품의 임상시험과 인허가를 담당하는 RPG(Regulatory Professional Group)의 리더. 다양한 국가의 의료기기 인허가 경험을 바탕으로, HAII만의 선구적인 인허가 전략을 수립하는 것이 목표. 처음 가는 길이라 쉽지는 않겠지만 그만큼 많은 기회가 있다고 믿고 노력 중.",
+				"eng": "Leader of the Regulatory Professional Group (RPG) in charge of clinical trials and licensing of Hi products. Based on the experience of licensing medical devices in various countries, the goal is to establish a pioneering licensing strategy unique to HAII. It won't be easy because it's my first time on my way, but I'm trying to believe that there are that many opportunities."
+			},
+			"image": "../../assets/images/8. Members/members-19-박성희.jpg"
+		},
+		{
+			"id": 20,
+			"name": {
+				"kor": "이정미",
+				"eng": "Lee, Jungmi"
+			},
+			"department": {
+				"kor": "인허가 팀",
+				"eng": "License"
+			},
+			"introduction": {
+				"kor": "화학 공학도 출신의 Tech-Writer,  디지털 치료제가 만들어가는 사회적 가치에 매력을 느끼며 하이에 합류!“디지털 기술로 의료기기를 만들 수 있다고?”  의심을 실적으로 증명해가고 있는 인허가의 독보적 실력자!부드러워 보이는 외모와는 다르게 취미는 복싱과 주짓수!",
+				"eng": "She received her degree in chemical engineering and works as our tech-writer. She was impressed by the social value digital therapeutics provides the world while dismissing her doubts about digital technologies and receiving real medical licenses. Outside the office, she can be found at the boxing gym or jiu-jitsu studio."
+			},
+			"image": "../../assets/images/8. Members/members-20-이정미.jpg"
+		},
+		{
+			"id": 21,
+			"name": {
+				"kor": "문재훈",
+				"eng": "Moon Jaehun"
+			},
+			"department": {
+				"kor": "인허가 팀",
+				"eng": "License"
+			},
+			"introduction": {
+				"kor": "\"의료기기, 제약\" 말고 디지털 치료제로 사람을 치료할 수 있다는 의구심이 있지만, 디지털 치료제가 만들어 갈 사회적 가치에 매료되어 Haii에 입사!디지털 치료제 인허가의 마스터를 노린다.",
+				"eng": "There are doubts that people can be treated with digital treatments other than \"medical devices and constraints\", but joined Haii because it is fascinated by the social values that digital treatments will create!It aims to master digital treatment licensing."
+			},
+			"image": "../../assets/images/8. Members/members-21-문재훈.jpg"
+		},
+		{
+			"id": 22,
+			"name": {
+				"kor": "강우진",
+				"eng": "Kang Ujin"
+			},
+			"department": {
+				"kor": "인허가 팀",
+				"eng": "License"
+			},
+			"introduction": {
+				"kor": "디지털 치료제의 가능성을 믿고 하이에 합류! 특허 실무 경험을 기초로 특허 관리 업무에 이어 인허가 업무까지 섭렵 중~",
+				"eng": "Trust in the possibility of digital therapy and join HI! Based on the patent practice experience, he is working on patent management and licensing~"
+			},
+			"image": "../../assets/images/8. Members/members-22-강우진.jpg"
+		}
+	]
+}
