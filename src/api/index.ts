@@ -1,62 +1,42 @@
-// // import useFetch from "../hooks/useFetch";
-// // export const handleData = useFetch(`{process.env.SERVER_BASIC_URL}partners`);
+// fetcher functions for React Query
 
-// import axios, { AxiosInstance } from "axios";
+const SERVER_URL =
+  process.env.REACT_APP_SERVER_BASE_URL || "http://localhost:4000/";
 
-// const customAPI: AxiosInstance = axios.create({
-//   baseURL: process.env.SERVER_BASIC_URL,
-//   timeout: 5000,
-//   headers: {
-//     "Content-Type": "application/json",
-//   },
-// });
+export async function fetchCollaboration() {
+  return fetch(`${SERVER_URL}collaboration`).then((response) =>
+    response.json()
+  );
+}
 
-// /*
-//     1. 요청 인터셉터를 작성합니다.
-//     2개의 콜백 함수를 받습니다.
+export async function fetchAdvisory() {
+  return fetch(`${SERVER_URL}advisory`).then((response) => response.json());
+}
 
-//     1) 요청 바로 직전 - 인자값: axios config
-//     2) 요청 에러 - 인자값: error
-// */
-// customAPI.interceptors.request.use(
-//   function (config) {
-//     // 요청 바로 직전
-//     // axios 설정값에 대해 작성합니다.
-//     return config;
-//   },
-//   function (error) {
-//     // 요청 에러 처리를 작성합니다.
-//     return Promise.reject(error);
-//   }
-// );
+export async function fetchPublications() {
+  return fetch(`${SERVER_URL}publications`).then((response) => response.json());
+}
 
-// /*
-//     2. 응답 인터셉터를 작성합니다.
-//     2개의 콜백 함수를 받습니다.
+export async function fetchNews() {
+  return fetch(`${SERVER_URL}news`).then((response) => response.json());
+}
 
-//     1) 응답 정성 - 인자값: http response
-//     2) 응답 에러 - 인자값: http error
-// */
-// customAPI.interceptors.response.use(
-//   function (response) {
-//     /*
-//         http status가 200인 경우
-//         응답 바로 직전에 대해 작성합니다. 
-//         .then() 으로 이어집니다.
-//     */
-//     return response;
-//   },
+export async function fetchInvestors() {
+  return fetch(`${SERVER_URL}investors`).then((response) => response.json());
+}
 
-//   function (error) {
-//     /*
-//         http status가 200이 아닌 경우
-//         응답 에러 처리를 작성합니다.
-//         .catch() 으로 이어집니다.    
-//     */
-//     return Promise.reject(error);
-//   }
-// );
+export async function fetchPartners() {
+  return fetch(`${SERVER_URL}partners`).then((response) => response.json());
+}
 
-// // 생성한 인스턴스를 익스포트 합니다.
-// export default customAPI;
-export {}
+export async function fetchVideo() {
+  return fetch(`${SERVER_URL}video`).then((response) => response.json());
+}
+
+export async function fetchPhoto() {
+  return fetch(`${SERVER_URL}photo`).then((response) => response.json());
+}
+
+export async function fetchMembers() {
+  return fetch(`${SERVER_URL}members`).then((response) => response.json());
+}
